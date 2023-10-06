@@ -13,6 +13,18 @@
 from typing import List, Tuple
 
 movie_db: List[Tuple[str, str, int, List[str]]] = [
+    
+     (
+        "Spider-Man: No Way Home",
+        "Jon Watts",
+        2021,
+        [
+            "Tom Holland",
+            "Tobey Maguire",
+            "Andrew Garfield",
+            "Zendaya"
+        ],
+    )
     (
         "amarcord",  # title
         "federico fellini",  # director
